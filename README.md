@@ -17,7 +17,7 @@ Sou um desenvolvedor apaixonado por tecnologia, sempre explorando novas soluçõ
 - **Ferramentas**: Git, GitHub
 
 ## 🚀 Sobre mim:
-📍 Atualmente estou aprimorando minhas habilidades em **KPM** e explorando melhores práticas em arquitetura de software.
+📍 Atualmente estou aprimorando minhas habilidades em **KMP** e explorando melhores práticas em arquitetura de software.
 
 ## 📈 Estatísticas do GitHub:
 ![Gustavo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Guuhlima&show_icons=true&theme=radical)
