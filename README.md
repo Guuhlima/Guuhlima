@@ -1,16 +1,28 @@
-## Hi there 👋
+# 👋 Olá, eu sou Gustavo!
 
-<!--
-**Guuhlima/Guuhlima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou um desenvolvedor apaixonado por tecnologia, sempre explorando novas soluções e arquiteturas para criar aplicações escaláveis e performáticas. 💻  
 
-Here are some ideas to get you started:
+## 🛠️ Tecnologias que domino:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React.js" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" alt="Laravel" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="Go" width="50"/>
+</div>
+
+- **Backend**: Node.js, Laravel, Go  
+- **Frontend**: React.js  
+- **Banco de dados**: MySQL, PostgreSQL  
+- **DevOps**: Docker, Kubernetes  
+- **Ferramentas**: Git, GitHub, CI/CD  
+
+## 🚀 Sobre mim:
+📍 Atualmente estou aprimorando minhas habilidades em **KPM** e explorando melhores práticas em arquitetura de software.
+
+## 📈 Estatísticas do GitHub:
+![Gustavo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=radical)
+
+## 📫 Como me encontrar:
+🔗 [LinkedIn](https://linkedin.com/in/gustavo-lima-3160b6354)  
+📧 **guuhalves0922@email.com**  
