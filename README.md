@@ -24,4 +24,4 @@ Sou um desenvolvedor apaixonado por tecnologia, sempre explorando novas soluçõ
 
 ## 📫 Como me encontrar:
 🔗 [LinkedIn](https://linkedin.com/in/gustavo-lima-3160b6354)  
-📧 **guuhalves0922@email.com**  
+📧 **guuhalves0922@gmail.com**  
