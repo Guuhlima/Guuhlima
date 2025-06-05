@@ -14,7 +14,7 @@ Sou um desenvolvedor apaixonado por tecnologia, sempre explorando novas soluçõ
 - **Frontend**: React.js  
 - **Banco de dados**: MySQL, PostgreSQL  
 - **DevOps**: Docker 
-- **Ferramentas**: Git, GitHub, CI/CD  
+- **Ferramentas**: Git, GitHub
 
 ## 🚀 Sobre mim:
 📍 Atualmente estou aprimorando minhas habilidades em **KPM** e explorando melhores práticas em arquitetura de software.
