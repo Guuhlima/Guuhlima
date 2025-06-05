@@ -13,14 +13,14 @@ Sou um desenvolvedor apaixonado por tecnologia, sempre explorando novas soluçõ
 - **Backend**: Node.js, Laravel, Go  
 - **Frontend**: React.js  
 - **Banco de dados**: MySQL, PostgreSQL  
-- **DevOps**: Docker, Kubernetes  
+- **DevOps**: Docker 
 - **Ferramentas**: Git, GitHub, CI/CD  
 
 ## 🚀 Sobre mim:
 📍 Atualmente estou aprimorando minhas habilidades em **KPM** e explorando melhores práticas em arquitetura de software.
 
 ## 📈 Estatísticas do GitHub:
-![Gustavo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=radical)
+![Gustavo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Guuhlima&show_icons=true&theme=radical)
 
 ## 📫 Como me encontrar:
 🔗 [LinkedIn](https://linkedin.com/in/gustavo-lima-3160b6354)  
