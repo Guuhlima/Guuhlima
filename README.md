@@ -10,11 +10,12 @@ Sou um desenvolvedor apaixonado por tecnologia, sempre explorando novas soluçõ
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="Go" width="50"/>
 </div>
 
-- **Backend**: Node.js, Laravel, Go  
-- **Frontend**: React.js  
-- **Banco de dados**: MySQL, PostgreSQL  
+- **Backend**: Node.js, Laravel, Go, TypeScript, Python
+- **Frontend**: React.js, ReactNative, Laravel
+- **Mobile**: KMP, ReactNative
+- **Banco de dados**: MySQL, PostgreSQL, SQLServer  
 - **DevOps**: Docker 
-- **Ferramentas**: Git, GitHub
+- **Ferramentas**: Git, GitHub, CI / CD
 
 ## 🚀 Sobre mim:
 📍 Atualmente estou aprimorando minhas habilidades em **KMP** e explorando melhores práticas em arquitetura de software.
