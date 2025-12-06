@@ -48,18 +48,16 @@ arquitetura de software, modularização e Clean Architecture.
 
 ## 📊 Estatísticas do GitHub
 
-### Estatísticas gerais
-
-![Stats](https://github-readme-stats.vercel.app/api?username=Guuhlima&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&cache_seconds=60)
-
 ### Streak
 
 ![Streak](https://streak-stats.demolab.com?user=Guuhlima&theme=tokyonight&hide_border=true&border_radius=10)
 
-### Linguagens mais usadas
+### Tecnologias mais usadas
 
-![Top
-![Top Langs](https://github-readme-stats-git-masterricardomatias-projects.vercel.app/api/top-langs/?username=Guuhlima&layout=compact&theme=tokyonight&hide_border=true&border_radius=10)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-5ed3f3?style=for-the-badge&logo=react&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-1D63ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ## 📫 Como me encontrar
 
