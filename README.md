@@ -50,7 +50,7 @@ arquitetura de software, modularização e Clean Architecture.
 
 ### Estatísticas gerais
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Guuhlima&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10)
+![Stats](https://github-readme-stats-git-masterricardomatias-projects.vercel.app/api?username=Guuhlima&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10)
 
 ### Streak
 
@@ -59,7 +59,7 @@ arquitetura de software, modularização e Clean Architecture.
 ### Linguagens mais usadas
 
 ![Top
-Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Guuhlima&layout=compact&theme=tokyonight&hide_border=true&border_radius=10)
+![Top Langs](https://github-readme-stats-git-masterricardomatias-projects.vercel.app/api/top-langs/?username=Guuhlima&layout=compact&theme=tokyonight&hide_border=true&border_radius=10)
 
 ## 📫 Como me encontrar
 
