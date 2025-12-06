@@ -50,7 +50,7 @@ arquitetura de software, modularização e Clean Architecture.
 
 ### Estatísticas gerais
 
-![Stats](https://github-readme-stats-git-masterricardomatias-projects.vercel.app/api?username=Guuhlima&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10)
+![Stats](https://github-readme-stats.vercel.app/api?username=Guuhlima&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&cache_seconds=60)
 
 ### Streak
 
