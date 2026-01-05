@@ -1,6 +1,6 @@
 # Gustavo Lima
 
-Desenvolvedor de Software com foco em **engenharia backend e arquitetura de sistemas**, atuando na construção de aplicações **escaláveis, resilientes e de alto desempenho**.  
+Desenvolvedor de Software com foco em **engenharia fullstack e arquitetura de sistemas**, atuando na construção de aplicações **escaláveis, resilientes e de alto desempenho**.  
 Experiência com projetos web, mobile e APIs, aplicando boas práticas de engenharia, clean code e arquitetura moderna.
 
 ---
@@ -37,13 +37,13 @@ Experiência com projetos web, mobile e APIs, aplicando boas práticas de engenh
 - Integração entre sistemas e aplicações distribuídas  
 - Boas práticas de versionamento, testes e automação de pipelines  
 
-Atualmente aprofundando conhecimentos em **Kotlin Multiplatform** e **arquiteturas escaláveis**.
+Atualmente aprofundando conhecimentos em **arquiteturas escaláveis**.
 
 ---
 
 ## GitHub Activity
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Guuhlima&theme=tokyonight&hide_border=true&border_radius=10)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Guuhlima&show_icons=true&hide_title=true&hide_border=true&theme=tokyonight)
 
 ---
 
