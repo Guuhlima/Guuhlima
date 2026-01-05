@@ -43,7 +43,7 @@ Atualmente aprofundando conhecimentos em **arquiteturas escaláveis**.
 
 ## GitHub Activity
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Guuhlima&theme=tokyonight&hide_border=true)
+Ativo no desenvolvimento de projetos open source e privados, com foco em qualidade de código, arquitetura e boas práticas de engenharia.
 
 ---
 
