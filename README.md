@@ -28,6 +28,9 @@ Experiência com projetos web, mobile e APIs, aplicando boas práticas de engenh
 - Git & GitHub  
 - CI/CD (GitHub Actions)
 
+**Automações**
+- N8N
+
 ---
 
 ## Atuação Técnica
