@@ -8,18 +8,18 @@ Experiência com projetos web, mobile e APIs, aplicando boas práticas de engenh
 ## Stack Principal
 
 **Linguagens & Frameworks**  
-- TypeScript  -- (Foco Principal) 
+- TypeScript
 - Go  
 - Python  
 - Laravel  
 
 **Frontend & Mobile**  
-- React / Next.js  -- (Foco Principal) 
+- React / Next.js
 - React Native  
 - Kotlin Multiplatform (KMP)  
 
 **Banco de Dados**  
-- PostgreSQL  -- (Foco Principal) 
+- PostgreSQL
 - MySQL  
 - SQL Server  
 
